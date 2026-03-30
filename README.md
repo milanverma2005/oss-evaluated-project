@@ -12,18 +12,18 @@ This project is developed to understand the concepts of open-source software and
 - Build a simple and functional application  
 - Understand version control and collaboration  
 
-## 🚀 Features
+Features
 - Simple and user-friendly application  
 - Clean and structured code  
 - Easy to run and understand  
 - Proper documentation  
 
-## 🛠️ Technologies Used
+#Technologies Used
 - Programming Language: (Java / Python / C++)  
 - Tools: Git, GitHub  
 - IDE: (VS Code / IntelliJ / Eclipse)  
 
-## 📂 Project Structure
+## Project Structure
 Milan-Open-Source-Project/
 │
 ├── README.md
@@ -31,7 +31,7 @@ Milan-Open-Source-Project/
 ├── src/
 └── docs/
 
-## ▶️ How to Run
+ How to Run
 1. Clone the repository  
    git clone https://github.com/your-username/milan-open-source-project.git  
 
@@ -39,11 +39,11 @@ Milan-Open-Source-Project/
 
 3. Run the main file  
 
-## 📸 Screenshots
-(Add screenshots here if required)
 
-## 👨‍💻 Author
+
+ Author
 - Milan Verma  
 
-## 📜 License
-This project is open-source and free to use.
+
+
+
