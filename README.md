@@ -1,12 +1,12 @@
 # Milan Open Source Project
 
-## 📌 Project Title
+##  Project Title
 Open Source Software - Evaluated Course Project
 
-## 📖 Description
+##  Description
 This project is developed to understand the concepts of open-source software and collaborative development. It uses Git and GitHub for version control and project management. The repository is public to allow easy access, sharing, and contribution. This project helps in improving coding, documentation, and teamwork skills in a real-world development environment.
 
-## 🎯 Objectives
+##  Objectives
 - Learn open-source development concepts  
 - Use Git and GitHub effectively  
 - Build a simple and functional application  
@@ -39,7 +39,13 @@ Milan-Open-Source-Project/
 
 3. Run the main file  
 
+## Outcome
 
+Gained hands-on experience in open source contribution and improved
+coding and collaboration skills.
+
+##  License
+This project is open-source and free to use.
 
  Author
 - Milan Verma  
